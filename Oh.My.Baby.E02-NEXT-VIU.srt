@@ -1,0 +1,3800 @@
+﻿1
+00:00:00,037 --> 00:00:05,037
+<b></b>
+
+2
+00:00:57,380 --> 00:00:59,280
+<b>(Dahan Hospital OB-GYN)</b>
+
+3
+00:00:59,870 --> 00:01:01,170
+<b>Excuse me, sir.</b>
+
+4
+00:01:01,770 --> 00:01:03,440
+<b>The patient left this behind.</b>
+
+5
+00:01:04,870 --> 00:01:06,110
+<b>She left? All by herself?</b>
+
+6
+00:01:06,510 --> 00:01:07,510
+<b>Yes.</b>
+
+7
+00:01:19,120 --> 00:01:20,260
+<b>Gosh.</b>
+
+8
+00:01:22,460 --> 00:01:24,730
+<b>A seven-percent probability to get naturally pregnant...</b>
+
+9
+00:01:24,730 --> 00:01:26,830
+<b>doesn't mean it's entirely impossible to have a baby.</b>
+
+10
+00:01:27,230 --> 00:01:29,800
+<b>But your fecundity will continue to decrease.</b>
+
+11
+00:01:30,100 --> 00:01:31,740
+<b>If you plan to get pregnant any time soon,</b>
+
+12
+00:01:31,740 --> 00:01:33,570
+<b>you can postpone the endometriosis surgery.</b>
+
+13
+00:01:35,210 --> 00:01:36,410
+<b>What would you like to do?</b>
+
+14
+00:01:36,610 --> 00:01:39,510
+<b>Do you want to get the surgery or get ready for pregnancy?</b>
+
+15
+00:01:44,810 --> 00:01:47,820
+<b>Then let's do a follow-up in six months.</b>
+
+16
+00:01:48,120 --> 00:01:50,290
+<b>If you still haven't gotten better, let's do the surgery then.</b>
+
+17
+00:01:53,190 --> 00:01:54,320
+<b>"Six months"?</b>
+
+18
+00:02:02,370 --> 00:02:03,500
+<b>Ms. Jang.</b>
+
+19
+00:02:04,200 --> 00:02:05,270
+<b>What are you doing here?</b>
+
+20
+00:02:05,840 --> 00:02:08,970
+<b>I'm... I'm looking for a pharmacy.</b>
+
+21
+00:02:09,540 --> 00:02:10,610
+<b>A pharmacy...</b>
+
+22
+00:02:13,810 --> 00:02:15,180
+<b>Do you not feel well?</b>
+
+23
+00:02:16,050 --> 00:02:17,080
+<b>No, I...</b>
+
+24
+00:02:18,280 --> 00:02:19,920
+<b>Why does it feel like it's all over?</b>
+
+25
+00:02:21,120 --> 00:02:23,050
+<b>This can't be the end.</b>
+
+26
+00:02:29,660 --> 00:02:30,890
+<b>Do you want to marry me?</b>
+
+27
+00:02:46,910 --> 00:02:49,910
+<b>It looks like something happened.</b>
+
+28
+00:02:49,910 --> 00:02:50,980
+<b>So I won't ask.</b>
+
+29
+00:02:59,620 --> 00:03:00,690
+<b>What?</b>
+
+30
+00:03:07,530 --> 00:03:09,730
+<b>I don't get what you're talking about.</b>
+
+31
+00:03:10,300 --> 00:03:12,940
+<b>I'm not interested in getting married.</b>
+
+32
+00:03:14,470 --> 00:03:16,610
+<b>- With whom? - With you.</b>
+
+33
+00:03:17,170 --> 00:03:19,610
+<b>Why would you marry me?</b>
+
+34
+00:03:22,450 --> 00:03:23,780
+<b>Do you want to marry me?</b>
+
+35
+00:03:29,820 --> 00:03:32,060
+<b>It was my way of thanking you.</b>
+
+36
+00:03:32,890 --> 00:03:35,060
+<b>I felt grateful enough to even propose to you.</b>
+
+37
+00:03:35,260 --> 00:03:39,430
+<b>Just consider it as a polite way of saying thanks.</b>
+
+38
+00:03:40,500 --> 00:03:41,660
+<b>You get that, right?</b>
+
+39
+00:03:42,730 --> 00:03:44,730
+<b>No, not really.</b>
+
+40
+00:03:45,440 --> 00:03:46,570
+<b>I see.</b>
+
+41
+00:03:47,470 --> 00:03:48,610
+<b>You don't get it.</b>
+
+42
+00:03:49,840 --> 00:03:51,910
+<b>I guess I should've gone with the common route then.</b>
+
+43
+00:03:52,340 --> 00:03:53,540
+<b>Anyway, I'm grateful.</b>
+
+44
+00:03:53,540 --> 00:03:54,640
+<b>I'd even be more grateful...</b>
+
+45
+00:03:54,640 --> 00:03:56,950
+<b>if you could forget about everything that just happened as well.</b>
+
+46
+00:03:57,150 --> 00:03:58,150
+<b>But...</b>
+
+47
+00:03:59,720 --> 00:04:01,650
+<b>You don't seem to be thinking clearly.</b>
+
+48
+00:04:01,650 --> 00:04:02,690
+<b>Can I give you a lift?</b>
+
+49
+00:04:02,790 --> 00:04:05,960
+<b>No, I'm good. I'm back to normal, so you can go.</b>
+
+50
+00:04:06,090 --> 00:04:08,930
+<b>- Ms. Jang... - I'm fine, so...</b>
+
+51
+00:04:19,600 --> 00:04:22,540
+<b>You're a polite one, aren't you?</b>
+
+52
+00:04:33,320 --> 00:04:34,480
+<b>That's enough.</b>
+
+53
+00:04:34,750 --> 00:04:37,420
+<b>Get back down here and let me do it.</b>
+
+54
+00:04:37,790 --> 00:04:38,990
+<b>Unbelievable.</b>
+
+55
+00:04:40,290 --> 00:04:43,390
+<b>I know how to replace a light bulb, you know.</b>
+
+56
+00:04:43,490 --> 00:04:45,260
+<b>Why would I let you have the pleasure?</b>
+
+57
+00:04:45,400 --> 00:04:46,760
+<b>Go back to watching the baby.</b>
+
+58
+00:04:46,760 --> 00:04:48,830
+<b>I find you cool either way,</b>
+
+59
+00:04:48,900 --> 00:04:50,670
+<b>so let me do the grunt work around here.</b>
+
+60
+00:04:50,770 --> 00:04:52,970
+<b>That's not why I asked you to come live with us.</b>
+
+61
+00:04:53,540 --> 00:04:56,140
+<b>The women in this family managed without a man for over 30 years.</b>
+
+62
+00:04:56,210 --> 00:04:57,440
+<b>Don't even think about being our handyman.</b>
+
+63
+00:04:57,910 --> 00:05:00,140
+<b>How can I not when I'm the only guy...</b>
+
+64
+00:05:00,140 --> 00:05:01,610
+<b>around the house?</b>
+
+65
+00:05:01,910 --> 00:05:03,050
+<b>The cutlery is what you'll grab.</b>
+
+66
+00:05:03,050 --> 00:05:04,750
+<b>That's how it is at your mother-in-law's.</b>
+
+67
+00:05:06,680 --> 00:05:07,780
+<b>My mother-in-law?</b>
+
+68
+00:05:09,220 --> 00:05:11,750
+<b>I'm just saying we're as close as that.</b>
+
+69
+00:05:13,290 --> 00:05:15,230
+<b>And have Ha Ri help raise Do Ah.</b>
+
+70
+00:05:15,230 --> 00:05:16,630
+<b>She'll do a good job.</b>
+
+71
+00:05:17,860 --> 00:05:19,500
+<b>Why would I ask her that?</b>
+
+72
+00:05:21,630 --> 00:05:22,770
+<b>As a stepmother...</b>
+
+73
+00:05:23,770 --> 00:05:24,830
+<b>"A stepmother"?</b>
+
+74
+00:05:26,340 --> 00:05:29,240
+<b>- We're a family again, aren't we? - Right.</b>
+
+75
+00:05:30,340 --> 00:05:32,780
+<b>Anyway, she just adores kids.</b>
+
+76
+00:05:33,180 --> 00:05:35,310
+<b>She's great at babysitting them too.</b>
+
+77
+00:05:37,050 --> 00:05:39,920
+<b>I know that, but why would I...</b>
+
+78
+00:05:40,320 --> 00:05:42,920
+<b>Here. Drink this.</b>
+
+79
+00:05:42,920 --> 00:05:45,990
+<b>Gosh, thank you. You didn't have to.</b>
+
+80
+00:05:46,690 --> 00:05:48,190
+<b>You need to go back to how you were.</b>
+
+81
+00:05:48,930 --> 00:05:50,290
+<b>It's herbal medicine.</b>
+
+82
+00:05:51,030 --> 00:05:55,130
+<b>You should've lived a good life, not come back as a scruffy dog.</b>
+
+83
+00:06:39,940 --> 00:06:41,610
+<b>Mom!</b>
+
+84
+00:07:04,670 --> 00:07:06,270
+<b>- Say goodbye. - Bye!</b>
+
+85
+00:07:06,600 --> 00:07:07,670
+<b>Really?</b>
+
+86
+00:07:17,810 --> 00:07:19,850
+<b>(My mom Ms. Ok Ran)</b>
+
+87
+00:07:24,550 --> 00:07:25,620
+<b>Yes, Mom?</b>
+
+88
+00:07:25,920 --> 00:07:27,560
+<b>Are you busy?</b>
+
+89
+00:07:30,160 --> 00:07:31,230
+<b>Not really.</b>
+
+90
+00:07:31,560 --> 00:07:34,160
+<b>Can you make it to Eun Joo's wedding this weekend?</b>
+
+91
+00:07:36,800 --> 00:07:37,870
+<b>I have a deadline to meet.</b>
+
+92
+00:07:38,200 --> 00:07:39,700
+<b>You'll be done by then.</b>
+
+93
+00:07:40,200 --> 00:07:42,940
+<b>Swing by if you can. Your aunt will be devastated.</b>
+
+94
+00:07:44,710 --> 00:07:45,810
+<b>I'll see what I can do.</b>
+
+95
+00:07:46,510 --> 00:07:48,040
+<b>You'll do what?</b>
+
+96
+00:07:48,240 --> 00:07:50,810
+<b>Did you know that you always use your deadline as an excuse?</b>
+
+97
+00:07:51,380 --> 00:07:52,450
+<b>Even your aunt knows that...</b>
+
+98
+00:07:52,450 --> 00:07:54,880
+<b>you're deliberately skipping weddings and kids' birthday parties.</b>
+
+99
+00:07:56,090 --> 00:07:57,090
+<b>It serves you right for letting...</b>
+
+100
+00:07:57,090 --> 00:07:58,290
+<b>your younger cousins get married first.</b>
+
+101
+00:08:02,290 --> 00:08:04,890
+<b>Missing family events like this only make them pity you more.</b>
+
+102
+00:08:04,890 --> 00:08:08,500
+<b>You should attend them with your head held up high.</b>
+
+103
+00:08:09,270 --> 00:08:10,370
+<b>- I... - Got it?</b>
+
+104
+00:08:10,800 --> 00:08:12,270
+<b>I didn't commit a crime, you know.</b>
+
+105
+00:08:12,770 --> 00:08:14,640
+<b>Why do you think I'd feel ashamed?</b>
+
+106
+00:08:14,940 --> 00:08:18,510
+<b>Can I only hold my head up high if I'm married with kids?</b>
+
+107
+00:08:21,010 --> 00:08:22,280
+<b>Okay, fine.</b>
+
+108
+00:08:25,310 --> 00:08:26,650
+<b>Mom, I...</b>
+
+109
+00:08:30,050 --> 00:08:31,120
+<b>What was that?</b>
+
+110
+00:08:33,490 --> 00:08:35,190
+<b>I'll have dinner ready, so don't be late.</b>
+
+111
+00:08:35,930 --> 00:08:36,990
+<b>Whatever. I'm hanging up.</b>
+
+112
+00:09:07,690 --> 00:09:09,390
+<b>Ha Ri!</b>
+
+113
+00:09:09,790 --> 00:09:10,890
+<b>What took you so long?</b>
+
+114
+00:09:10,890 --> 00:09:13,500
+<b>Ms. Shim is shooting lasers out of her eyes.</b>
+
+115
+00:09:18,000 --> 00:09:19,940
+<b>Right, of course.</b>
+
+116
+00:09:22,770 --> 00:09:23,840
+<b>Sure.</b>
+
+117
+00:09:25,340 --> 00:09:27,140
+<b>Ms. Shim, you're back.</b>
+
+118
+00:09:27,610 --> 00:09:29,250
+<b>I thought you had another week off.</b>
+
+119
+00:09:29,250 --> 00:09:31,110
+<b>How can I stay home when this is happening?</b>
+
+120
+00:09:31,280 --> 00:09:33,050
+<b>But the issue was solved.</b>
+
+121
+00:09:33,280 --> 00:09:36,820
+<b>Leave the Advertising Department to solve their own problems.</b>
+
+122
+00:09:36,990 --> 00:09:38,990
+<b>Why did you agree to wear the fake pregnant belly?</b>
+
+123
+00:09:39,360 --> 00:09:40,990
+<b>Still, it led to a deal.</b>
+
+124
+00:09:41,060 --> 00:09:42,460
+<b>Then take care of the Eggo photo shoot too.</b>
+
+125
+00:09:43,890 --> 00:09:44,990
+<b>Sorry?</b>
+
+126
+00:09:44,990 --> 00:09:46,930
+<b>Eggo said they wouldn't be renewing their contract,</b>
+
+127
+00:09:46,930 --> 00:09:49,230
+<b>so it's up to you to get them to sign with us again.</b>
+
+128
+00:09:49,430 --> 00:09:50,600
+<b>Send Ha Ri the related materials.</b>
+
+129
+00:09:50,770 --> 00:09:54,270
+<b>What? But I worked hard casting Na Eun as the model for this.</b>
+
+130
+00:09:54,770 --> 00:09:56,470
+<b>Why would that fall on my lap?</b>
+
+131
+00:09:58,240 --> 00:10:00,040
+<b>Why do you keep throwing projects at me?</b>
+
+132
+00:10:00,040 --> 00:10:01,180
+<b>I'm not in the Advertising Department...</b>
+
+133
+00:10:01,180 --> 00:10:03,380
+<b>If you want to patronize...</b>
+
+134
+00:10:03,380 --> 00:10:06,350
+<b>and order subordinates around, be the editor-in-chief yourself.</b>
+
+135
+00:10:06,720 --> 00:10:08,280
+<b>I didn't cut my baby's breastfeeding short...</b>
+
+136
+00:10:08,280 --> 00:10:09,620
+<b>just to hear you talk back at me!</b>
+
+137
+00:10:20,200 --> 00:10:23,330
+<b>I'll call it a day for now and get begging tomorrow.</b>
+
+138
+00:10:32,940 --> 00:10:34,010
+<b>Back to work, guys.</b>
+
+139
+00:10:45,660 --> 00:10:47,960
+<b>Gyeong Jin's getting married next month.</b>
+
+140
+00:10:48,260 --> 00:10:49,930
+<b>Tell me about it.</b>
+
+141
+00:10:50,190 --> 00:10:52,130
+<b>Everyone's finally getting married one by one.</b>
+
+142
+00:10:52,700 --> 00:10:53,760
+<b>Myeong Sook's son...</b>
+
+143
+00:10:53,760 --> 00:10:55,730
+<b>- got into Sehan University. - I know.</b>
+
+144
+00:10:56,100 --> 00:10:57,130
+<b>Is your daughter...</b>
+
+145
+00:10:57,130 --> 00:10:59,240
+<b>- a high school senior this year? - That's right.</b>
+
+146
+00:10:59,670 --> 00:11:02,610
+<b>- Gosh, time sure flies. - Tell me about it.</b>
+
+147
+00:11:06,210 --> 00:11:10,780
+<b>(Episode 2: Am I on the Right Path?)</b>
+
+148
+00:11:23,260 --> 00:11:26,160
+<b>Is she asleep? Why are all the lights off?</b>
+
+149
+00:11:26,160 --> 00:11:27,860
+<b>Gosh.</b>
+
+150
+00:11:28,900 --> 00:11:31,270
+<b>What on earth?</b>
+
+151
+00:11:33,340 --> 00:11:34,600
+<b>What are you up to?</b>
+
+152
+00:11:37,010 --> 00:11:39,480
+<b>You just can't be normal, can you?</b>
+
+153
+00:11:39,580 --> 00:11:41,540
+<b>Unbelievable. Here you go.</b>
+
+154
+00:11:43,050 --> 00:11:44,110
+<b>It's for you.</b>
+
+155
+00:11:44,410 --> 00:11:45,750
+<b>Your cousin's getting married.</b>
+
+156
+00:11:46,920 --> 00:11:48,880
+<b>It seems to be easy for everyone else.</b>
+
+157
+00:11:49,790 --> 00:11:52,960
+<b>That must be why you seem a little depressed.</b>
+
+158
+00:11:53,990 --> 00:11:55,060
+<b>Not really.</b>
+
+159
+00:11:55,760 --> 00:11:59,230
+<b>In my 20s, I thought marriage would happen to me naturally.</b>
+
+160
+00:11:59,560 --> 00:12:01,400
+<b>When I reached my 30s though, it became a test.</b>
+
+161
+00:12:01,560 --> 00:12:03,430
+<b>I needed to study about men, how to date them,</b>
+
+162
+00:12:03,870 --> 00:12:05,530
+<b>and go on blind dates that felt like interviews.</b>
+
+163
+00:12:06,800 --> 00:12:08,970
+<b>I'm about to turn 40 now,</b>
+
+164
+00:12:09,940 --> 00:12:12,740
+<b>and I learned that my efforts won't take me down the aisle.</b>
+
+165
+00:12:14,340 --> 00:12:15,880
+<b>What do I do?</b>
+
+166
+00:12:16,350 --> 00:12:18,750
+<b>What else? You can just give up.</b>
+
+167
+00:12:18,810 --> 00:12:21,780
+<b>If life happens as we want it to, no one would have a crappy life.</b>
+
+168
+00:12:21,780 --> 00:12:23,050
+<b>I might be in a different place...</b>
+
+169
+00:12:23,050 --> 00:12:24,920
+<b>if I had put in a little more effort though.</b>
+
+170
+00:12:26,390 --> 00:12:27,590
+<b>Well...</b>
+
+171
+00:12:29,490 --> 00:12:31,490
+<b>Anyway, I'm regretting my yesterdays...</b>
+
+172
+00:12:31,490 --> 00:12:33,730
+<b>and hoping that I don't lose my chance tomorrow.</b>
+
+173
+00:12:34,360 --> 00:12:35,630
+<b>Your life isn't so bad...</b>
+
+174
+00:12:37,270 --> 00:12:38,700
+<b>Forget it.</b>
+
+175
+00:12:39,740 --> 00:12:41,640
+<b>So what's up with your belly?</b>
+
+176
+00:12:41,740 --> 00:12:43,910
+<b>Gosh, get that out of there.</b>
+
+177
+00:12:45,910 --> 00:12:47,010
+<b>Let it be.</b>
+
+178
+00:12:48,340 --> 00:12:51,080
+<b>This is what I regret and what I might lose tomorrow.</b>
+
+179
+00:12:52,580 --> 00:12:54,320
+<b>I'd rather mope around like this a little more.</b>
+
+180
+00:12:55,820 --> 00:12:57,390
+<b>Sure, whatever.</b>
+
+181
+00:12:58,620 --> 00:12:59,760
+<b>Good luck then.</b>
+
+182
+00:13:01,720 --> 00:13:03,190
+<b>Unbelievable.</b>
+
+183
+00:13:19,180 --> 00:13:20,210
+<b>Gosh.</b>
+
+184
+00:13:20,580 --> 00:13:22,950
+<b>I came by to ask for a favor,</b>
+
+185
+00:13:22,950 --> 00:13:24,650
+<b>but you're in no position to help me.</b>
+
+186
+00:13:24,950 --> 00:13:26,780
+<b>What kind of a favor is it?</b>
+
+187
+00:13:26,980 --> 00:13:30,350
+<b>Ha Ri might grow old all alone at this rate.</b>
+
+188
+00:13:30,650 --> 00:13:31,990
+<b>She doesn't seem to want to get married.</b>
+
+189
+00:13:32,050 --> 00:13:33,990
+<b>All she cares about is her job now.</b>
+
+190
+00:13:34,220 --> 00:13:36,790
+<b>What if she lives a lonely life forever?</b>
+
+191
+00:13:37,090 --> 00:13:39,230
+<b>She wouldn't be lonely.</b>
+
+192
+00:13:39,330 --> 00:13:42,000
+<b>She'll find someone and live happily ever after.</b>
+
+193
+00:13:43,230 --> 00:13:45,900
+<b>Jae Young. Stay by her side...</b>
+
+194
+00:13:45,900 --> 00:13:47,240
+<b>and be with her.</b>
+
+195
+00:13:47,640 --> 00:13:50,340
+<b>You need to live with people to find new people.</b>
+
+196
+00:13:50,940 --> 00:13:53,880
+<b>If you two grow on each other, you can settle down together.</b>
+
+197
+00:13:55,680 --> 00:13:57,710
+<b>How could you say something so frightening?</b>
+
+198
+00:13:59,220 --> 00:14:01,250
+<b>- Is Ha Ri frightening? - Come on.</b>
+
+199
+00:14:01,750 --> 00:14:03,190
+<b>Think about it.</b>
+
+200
+00:14:03,850 --> 00:14:07,490
+<b>She and I are like brother and sister.</b>
+
+201
+00:14:07,560 --> 00:14:09,290
+<b>Exactly. I'm saying...</b>
+
+202
+00:14:09,290 --> 00:14:11,590
+<b>be close like you're brother and sister.</b>
+
+203
+00:14:14,800 --> 00:14:16,170
+<b>Darn it.</b>
+
+204
+00:14:26,340 --> 00:14:30,210
+<b>Seriously. She keeps worrying me.</b>
+
+205
+00:14:33,120 --> 00:14:36,120
+<b>Hey, get up. Let's have some soju.</b>
+
+206
+00:14:36,120 --> 00:14:37,190
+<b>Get up!</b>
+
+207
+00:14:37,620 --> 00:14:38,620
+<b>Get off.</b>
+
+208
+00:14:39,050 --> 00:14:40,620
+<b>Fine, you have beer.</b>
+
+209
+00:14:41,120 --> 00:14:42,790
+<b>Why you little...</b>
+
+210
+00:14:42,990 --> 00:14:46,060
+<b>What are you doing? Slapstick? Your face is funny enough.</b>
+
+211
+00:14:48,430 --> 00:14:49,470
+<b>Hey.</b>
+
+212
+00:14:51,170 --> 00:14:53,540
+<b>Take this and go. Don't come back.</b>
+
+213
+00:14:53,540 --> 00:14:54,600
+<b>What is this?</b>
+
+214
+00:14:54,600 --> 00:14:56,840
+<b>Do Ah's pajamas. It's a parting gift.</b>
+
+215
+00:14:57,010 --> 00:14:59,310
+<b>Bye. Let's never meet again. Go.</b>
+
+216
+00:15:00,110 --> 00:15:01,210
+<b>Why did you buy this?</b>
+
+217
+00:15:01,210 --> 00:15:03,880
+<b>I bought you that, so leave. I don't want to look at you.</b>
+
+218
+00:15:03,880 --> 00:15:05,110
+<b>Go.</b>
+
+219
+00:15:05,780 --> 00:15:08,380
+<b>I don't think it'll work with me. That's our destiny.</b>
+
+220
+00:15:08,650 --> 00:15:10,650
+<b>What are you babbling about? Go.</b>
+
+221
+00:15:12,890 --> 00:15:14,490
+<b>Since you gave me a gift,</b>
+
+222
+00:15:18,260 --> 00:15:19,900
+<b>should I set you up with a guy?</b>
+
+223
+00:15:26,770 --> 00:15:30,110
+<b>When did I say I needed a guy?</b>
+
+224
+00:15:36,110 --> 00:15:37,450
+<b>Do you really not?</b>
+
+225
+00:15:37,680 --> 00:15:41,280
+<b>You seemed to be kicking yourself for not trying hard enough.</b>
+
+226
+00:15:44,150 --> 00:15:45,190
+<b>Well...</b>
+
+227
+00:15:46,090 --> 00:15:49,260
+<b>I think it may be too soon to give up, but...</b>
+
+228
+00:15:49,530 --> 00:15:51,030
+<b>So? Should I set you up?</b>
+
+229
+00:15:53,960 --> 00:15:55,900
+<b>It's okay.</b>
+
+230
+00:15:56,770 --> 00:15:59,540
+<b>There's no guarantee that I'll meet a nice guy just because I try.</b>
+
+231
+00:16:00,140 --> 00:16:02,500
+<b>Well, if you know someone...</b>
+
+232
+00:16:03,070 --> 00:16:04,970
+<b>who looks nice,</b>
+
+233
+00:16:05,070 --> 00:16:07,210
+<b>is a good person,</b>
+
+234
+00:16:07,210 --> 00:16:09,040
+<b>and has a good sense of humor...</b>
+
+235
+00:16:09,080 --> 00:16:12,310
+<b>I don't care about looks, so an average guy will do.</b>
+
+236
+00:16:12,880 --> 00:16:14,680
+<b>But you wouldn't know anyone like that.</b>
+
+237
+00:16:15,320 --> 00:16:17,790
+<b>What was that? Is that a yes or no?</b>
+
+238
+00:16:17,790 --> 00:16:20,390
+<b>Are you saying yes if I know someone like that?</b>
+
+239
+00:16:20,390 --> 00:16:22,220
+<b>If you do, you can try setting me up.</b>
+
+240
+00:16:25,930 --> 00:16:27,830
+<b>There are too many voices inside of you, right?</b>
+
+241
+00:16:28,030 --> 00:16:29,330
+<b>Just stick to one.</b>
+
+242
+00:16:31,500 --> 00:16:33,270
+<b>Thanks for the pajamas.</b>
+
+243
+00:16:33,670 --> 00:16:35,170
+<b>Brush your teeth and go to sleep.</b>
+
+244
+00:16:42,080 --> 00:16:44,350
+<b>A seven-percent probability to get naturally pregnant...</b>
+
+245
+00:16:44,350 --> 00:16:46,450
+<b>doesn't mean it's entirely impossible to have a baby.</b>
+
+246
+00:16:46,820 --> 00:16:49,220
+<b>But your fecundity will continue to decrease.</b>
+
+247
+00:17:03,170 --> 00:17:05,330
+<b>Good. You're doing good.</b>
+
+248
+00:17:08,600 --> 00:17:09,640
+<b>Let me take a picture.</b>
+
+249
+00:17:18,550 --> 00:17:21,220
+<b>"Because I've never tried wall climbing."</b>
+
+250
+00:17:21,820 --> 00:17:23,120
+<b>(Share)</b>
+
+251
+00:17:25,820 --> 00:17:26,860
+<b>(This is The Baby!)</b>
+
+252
+00:17:27,990 --> 00:17:30,760
+<b>(Followers)</b>
+
+253
+00:17:35,730 --> 00:17:37,100
+<b>They're all pictures of babies.</b>
+
+254
+00:18:02,460 --> 00:18:03,660
+<b>Do Ah, where's Daddy?</b>
+
+255
+00:18:04,460 --> 00:18:05,490
+<b>Do Ah.</b>
+
+256
+00:18:06,360 --> 00:18:07,500
+<b>Daddy's gone.</b>
+
+257
+00:18:08,560 --> 00:18:09,770
+<b>Here's Daddy.</b>
+
+258
+00:18:18,210 --> 00:18:20,410
+<b>You didn't have to come. You could've just called.</b>
+
+259
+00:18:20,680 --> 00:18:23,110
+<b>- You jerk. - Why you...</b>
+
+260
+00:18:24,150 --> 00:18:26,220
+<b>Why did you come here? It's so sad.</b>
+
+261
+00:18:26,250 --> 00:18:28,750
+<b>There aren't many kids' zones.</b>
+
+262
+00:18:29,650 --> 00:18:31,050
+<b>You've been out for five months, right?</b>
+
+263
+00:18:31,620 --> 00:18:32,720
+<b>How about expenses?</b>
+
+264
+00:18:32,990 --> 00:18:34,490
+<b>I sold my house.</b>
+
+265
+00:18:35,690 --> 00:18:36,760
+<b>Aren't you going to work again?</b>
+
+266
+00:18:37,260 --> 00:18:41,030
+<b>I don't know. It's too hard finding someone to watch a baby.</b>
+
+267
+00:18:48,740 --> 00:18:51,210
+<b>Gosh. What is this?</b>
+
+268
+00:18:53,480 --> 00:18:55,580
+<b>Jeong Won asked me to give you her child support payment.</b>
+
+269
+00:19:07,160 --> 00:19:10,060
+<b>She abandoned her own baby. Tell her to stay out of our lives.</b>
+
+270
+00:19:16,570 --> 00:19:20,200
+<b>It's hard to become strangers even if you get a divorce.</b>
+
+271
+00:19:22,670 --> 00:19:23,870
+<b>Although I accomplished it.</b>
+
+272
+00:19:30,080 --> 00:19:31,150
+<b>Hey.</b>
+
+273
+00:19:34,350 --> 00:19:35,480
+<b>Want to meet a girl?</b>
+
+274
+00:19:40,920 --> 00:19:42,290
+<b>What's this? How annoying.</b>
+
+275
+00:19:45,190 --> 00:19:46,600
+<b>Mr. Nam.</b>
+
+276
+00:19:46,760 --> 00:19:49,500
+<b>I saw that guy. Han I Sang.</b>
+
+277
+00:19:50,430 --> 00:19:52,900
+<b>He's the one that said he didn't like me.</b>
+
+278
+00:19:53,640 --> 00:19:55,970
+<b>Why is he liking my post?</b>
+
+279
+00:20:02,910 --> 00:20:03,950
+<b>Was it wrong to like it?</b>
+
+280
+00:20:07,250 --> 00:20:09,320
+<b>What's going on? What are you doing here?</b>
+
+281
+00:20:10,150 --> 00:20:12,590
+<b>You follow people and like their posts.</b>
+
+282
+00:20:12,790 --> 00:20:14,120
+<b>Isn't that how you do social media?</b>
+
+283
+00:20:15,160 --> 00:20:16,190
+<b>Are we close?</b>
+
+284
+00:20:16,190 --> 00:20:18,160
+<b>Do you do that only with people you're close to?</b>
+
+285
+00:20:18,190 --> 00:20:19,500
+<b>People follow people they don't know.</b>
+
+286
+00:20:19,500 --> 00:20:21,530
+<b>I only follow people I'm close to.</b>
+
+287
+00:20:23,200 --> 00:20:26,030
+<b>- Then cut me out. - I didn't accept it. You cancel it.</b>
+
+288
+00:20:26,600 --> 00:20:27,640
+<b>Fine.</b>
+
+289
+00:20:28,370 --> 00:20:31,240
+<b>Are you two childhood friends? You seem very close.</b>
+
+290
+00:20:31,410 --> 00:20:33,310
+<b>Continue to be close going forward.</b>
+
+291
+00:20:34,340 --> 00:20:35,940
+<b>I feel like I should be angry right now.</b>
+
+292
+00:20:35,940 --> 00:20:37,450
+<b>You said I wouldn't run into her.</b>
+
+293
+00:20:38,310 --> 00:20:39,980
+<b>I tried.</b>
+
+294
+00:20:39,980 --> 00:20:43,790
+<b>But you two met before I was ready. This is very awkward for me.</b>
+
+295
+00:20:54,130 --> 00:20:56,470
+<b>You seem to hate me today.</b>
+
+296
+00:20:56,900 --> 00:20:59,030
+<b>You said you were so grateful, you could propose to me.</b>
+
+297
+00:21:00,340 --> 00:21:02,370
+<b>It was my way of thanking you.</b>
+
+298
+00:21:02,440 --> 00:21:04,240
+<b>I felt grateful enough to even propose to you.</b>
+
+299
+00:21:06,610 --> 00:21:07,780
+<b>I Sang.</b>
+
+300
+00:21:08,780 --> 00:21:10,180
+<b>No, Mr. Han.</b>
+
+301
+00:21:11,080 --> 00:21:12,650
+<b>Let's have a proper conversation.</b>
+
+302
+00:21:16,820 --> 00:21:17,890
+<b>Just us.</b>
+
+303
+00:21:23,330 --> 00:21:25,360
+<b>You won't keep using the studio, will you?</b>
+
+304
+00:21:26,160 --> 00:21:27,230
+<b>Why?</b>
+
+305
+00:21:27,360 --> 00:21:29,230
+<b>I'll set my schedule to avoid the times you're there.</b>
+
+306
+00:21:29,830 --> 00:21:30,870
+<b>Why?</b>
+
+307
+00:21:31,600 --> 00:21:34,370
+<b>Aren't you uncomfortable with me? I'm very uncomfortable.</b>
+
+308
+00:21:34,600 --> 00:21:36,540
+<b>I'm fine.</b>
+
+309
+00:21:36,540 --> 00:21:38,010
+<b>Are you still uncomfortable with me?</b>
+
+310
+00:21:38,570 --> 00:21:40,010
+<b>It would be weird if I were comfortable.</b>
+
+311
+00:21:40,340 --> 00:21:42,480
+<b>You told me to just get a dog when we first met.</b>
+
+312
+00:21:44,180 --> 00:21:45,750
+<b>If you look at it that way,</b>
+
+313
+00:21:45,850 --> 00:21:47,980
+<b>I'm the one who should've been more offended.</b>
+
+314
+00:21:49,450 --> 00:21:50,950
+<b>- About what? - Don't you remember?</b>
+
+315
+00:21:53,520 --> 00:21:55,520
+<b>What would offend...</b>
+
+316
+00:22:22,350 --> 00:22:23,390
+<b>Hey.</b>
+
+317
+00:22:27,860 --> 00:22:29,860
+<b>Hey. Where are you going?</b>
+
+318
+00:22:30,090 --> 00:22:31,160
+<b>What's wrong with you?</b>
+
+319
+00:22:31,990 --> 00:22:34,000
+<b>Sit down. Sit.</b>
+
+320
+00:22:46,110 --> 00:22:47,580
+<b>Do you despise women?</b>
+
+321
+00:22:48,310 --> 00:22:50,450
+<b>- What? - You said,</b>
+
+322
+00:22:50,610 --> 00:22:52,980
+<b>if a woman shows interest,</b>
+
+323
+00:22:52,980 --> 00:22:55,520
+<b>it was because of this and that.</b>
+
+324
+00:22:55,520 --> 00:22:57,050
+<b>Isn't that the same thing?</b>
+
+325
+00:22:58,750 --> 00:23:02,220
+<b>How did you develop such a twisted prejudice?</b>
+
+326
+00:23:03,990 --> 00:23:06,360
+<b>I'm about to develop a prejudice.</b>
+
+327
+00:23:13,770 --> 00:23:16,070
+<b>Do you think I don't understand because I'm drunk?</b>
+
+328
+00:23:16,310 --> 00:23:19,570
+<b>You're saying you don't like me.</b>
+
+329
+00:23:20,610 --> 00:23:22,580
+<b>I don't like you either.</b>
+
+330
+00:23:23,980 --> 00:23:27,380
+<b>Had I known you were a psycho, I wouldn't have mustered up courage.</b>
+
+331
+00:23:32,950 --> 00:23:34,220
+<b>You read me correctly.</b>
+
+332
+00:23:35,220 --> 00:23:37,330
+<b>I'm not the guy you're looking for.</b>
+
+333
+00:23:40,360 --> 00:23:43,300
+<b>What if you fall for me?</b>
+
+334
+00:23:46,940 --> 00:23:49,300
+<b>I swear you'll fall for me.</b>
+
+335
+00:23:50,810 --> 00:23:54,240
+<b>Who gets drunk enough to say something like that?</b>
+
+336
+00:23:57,910 --> 00:24:02,180
+<b>You told me I'd fall for you.</b>
+
+337
+00:24:03,550 --> 00:24:05,390
+<b>- So did you fall for me? - No.</b>
+
+338
+00:24:05,390 --> 00:24:06,790
+<b>- Do you plan to? - No.</b>
+
+339
+00:24:06,790 --> 00:24:07,960
+<b>Then what's your point?</b>
+
+340
+00:24:09,060 --> 00:24:11,390
+<b>Why are you taking it out on me?</b>
+
+341
+00:24:11,590 --> 00:24:13,300
+<b>You're the one who guaranteed it.</b>
+
+342
+00:24:16,200 --> 00:24:19,800
+<b>Anyway, I'll do my best to avoid you so things don't get awkward.</b>
+
+343
+00:24:19,800 --> 00:24:22,370
+<b>- I expect you to cooperate as well. - Sure.</b>
+
+344
+00:24:22,370 --> 00:24:24,140
+<b>Let's try our best not to run into each other.</b>
+
+345
+00:24:25,170 --> 00:24:27,480
+<b>- Okay. - That was nice and easy.</b>
+
+346
+00:24:27,480 --> 00:24:29,280
+<b>Here. This is for my drink.</b>
+
+347
+00:24:39,250 --> 00:24:40,390
+<b>What do you mean the photographer isn't here?</b>
+
+348
+00:24:40,690 --> 00:24:42,890
+<b>I have an interview with Yeon Ho.</b>
+
+349
+00:24:42,890 --> 00:24:44,830
+<b>Why isn't anyone here yet?</b>
+
+350
+00:24:44,830 --> 00:24:46,030
+<b>They're coming.</b>
+
+351
+00:24:46,030 --> 00:24:49,000
+<b>It's going to take over an hour to set things up and do the shoot.</b>
+
+352
+00:24:49,200 --> 00:24:52,070
+<b>Yeon Ho is interviewing a famous photographer from abroad.</b>
+
+353
+00:24:52,070 --> 00:24:53,440
+<b>I can't do both.</b>
+
+354
+00:24:53,440 --> 00:24:54,840
+<b>It's a cover shoot.</b>
+
+355
+00:24:55,000 --> 00:24:57,640
+<b>I can't postpone it. We also need to do a video shoot.</b>
+
+356
+00:24:59,140 --> 00:25:01,140
+<b>I had a really hard time casting Na Eun.</b>
+
+357
+00:25:01,140 --> 00:25:03,010
+<b>You know how popular she is these days.</b>
+
+358
+00:25:03,010 --> 00:25:05,350
+<b>- Aunt. - Did you hear that? Even guys...</b>
+
+359
+00:25:06,950 --> 00:25:08,680
+<b>I must be crazy.</b>
+
+360
+00:25:10,050 --> 00:25:12,750
+<b>Hello, I'm Choi Kang Eu Ddeum from the Advertising Team.</b>
+
+361
+00:25:13,960 --> 00:25:15,160
+<b>You were an idol star, weren't you?</b>
+
+362
+00:25:15,160 --> 00:25:16,460
+<b>You seem very familiar.</b>
+
+363
+00:25:16,790 --> 00:25:21,000
+<b>No, my last name is made up with both of my parents' last names.</b>
+
+364
+00:25:21,260 --> 00:25:22,300
+<b>You have two last names?</b>
+
+365
+00:25:22,600 --> 00:25:24,000
+<b>Eu Ddeum, what are you doing here?</b>
+
+366
+00:25:24,100 --> 00:25:25,900
+<b>Mr. Kim told me it's a very important client...</b>
+
+367
+00:25:25,900 --> 00:25:27,740
+<b>and that I should help you get a contract renewal.</b>
+
+368
+00:25:27,940 --> 00:25:30,570
+<b>He sent you here to deal with an important client?</b>
+
+369
+00:25:30,640 --> 00:25:32,410
+<b>I didn't know he trusted me so much either.</b>
+
+370
+00:25:32,640 --> 00:25:34,280
+<b>I promise I'll do my best to help.</b>
+
+371
+00:25:36,140 --> 00:25:39,010
+<b>Ha Ri, I don't have time. You need to make a choice.</b>
+
+372
+00:25:50,090 --> 00:25:51,620
+<b>No, I don't want to.</b>
+
+373
+00:25:52,090 --> 00:25:53,290
+<b>You don't want to?</b>
+
+374
+00:25:53,620 --> 00:25:55,920
+<b>That means you still can.</b>
+
+375
+00:25:55,920 --> 00:25:57,390
+<b>Can you help us just this once?</b>
+
+376
+00:25:57,390 --> 00:25:59,530
+<b>You do your job, and I'll do mine.</b>
+
+377
+00:25:59,530 --> 00:26:01,530
+<b>I'm only here to share your working space.</b>
+
+378
+00:26:01,560 --> 00:26:03,500
+<b>This is a great part-time job.</b>
+
+379
+00:26:03,500 --> 00:26:05,000
+<b>You can make money, get good practice,</b>
+
+380
+00:26:05,000 --> 00:26:06,370
+<b>and get the hang of it again.</b>
+
+381
+00:26:07,240 --> 00:26:09,470
+<b>Why would he practice with our cover shoot?</b>
+
+382
+00:26:09,770 --> 00:26:11,210
+<b>It's just a figure of speech.</b>
+
+383
+00:26:12,170 --> 00:26:13,410
+<b>Forget it. That's enough.</b>
+
+384
+00:26:13,510 --> 00:26:14,940
+<b>We're stooping too low.</b>
+
+385
+00:26:18,510 --> 00:26:22,520
+<b>I'm sorry for asking you a favor when I promised to avoid you.</b>
+
+386
+00:26:26,590 --> 00:26:30,390
+<b>But did you have to make us talk facing your back?</b>
+
+387
+00:26:30,560 --> 00:26:33,430
+<b>It's not like you have a really broad back anyway.</b>
+
+388
+00:26:41,170 --> 00:26:42,200
+<b>Gosh.</b>
+
+389
+00:26:43,170 --> 00:26:45,340
+<b>Hey, you're here. You came a long way.</b>
+
+390
+00:26:45,770 --> 00:26:47,880
+<b>- Hi. - Hello.</b>
+
+391
+00:26:48,140 --> 00:26:50,210
+<b>Gosh, they're here. My goodness.</b>
+
+392
+00:26:54,080 --> 00:26:56,050
+<b>Hey, give me the draft.</b>
+
+393
+00:26:56,620 --> 00:26:57,650
+<b>We don't have time.</b>
+
+394
+00:26:59,290 --> 00:27:02,490
+<b>Na Eun, you can stand right here.</b>
+
+395
+00:27:02,660 --> 00:27:04,160
+<b>Hurry up. We don't have time.</b>
+
+396
+00:27:04,160 --> 00:27:06,860
+<b>There's not much time, so I'll make it quick.</b>
+
+397
+00:27:07,030 --> 00:27:11,530
+<b>This is harmless to humans, so kids can suck on it.</b>
+
+398
+00:27:11,530 --> 00:27:13,670
+<b>Hey, don't put it in your mouth. It's dirty.</b>
+
+399
+00:27:13,670 --> 00:27:14,870
+<b>It's filthy.</b>
+
+400
+00:27:15,300 --> 00:27:16,370
+<b>Gosh, how dirty.</b>
+
+401
+00:27:20,010 --> 00:27:23,950
+<b>Is there anything else you'd like us to emphasize?</b>
+
+402
+00:27:24,210 --> 00:27:26,150
+<b>Right. And let's see.</b>
+
+403
+00:27:26,580 --> 00:27:28,420
+<b>It's very durable.</b>
+
+404
+00:27:28,520 --> 00:27:30,720
+<b>Kids sometimes throw stuff,</b>
+
+405
+00:27:30,720 --> 00:27:32,890
+<b>but it doesn't break that easily.</b>
+
+406
+00:27:36,590 --> 00:27:37,830
+<b>This is so weak.</b>
+
+407
+00:27:40,060 --> 00:27:41,530
+<b>And... And what else is there?</b>
+
+408
+00:27:42,160 --> 00:27:45,570
+<b>I have to urgently go somewhere.</b>
+
+409
+00:27:46,800 --> 00:27:48,400
+<b>Can you assemble everything back together?</b>
+
+410
+00:27:49,340 --> 00:27:52,670
+<b>Yes, of course. I can do it with my eyes closed.</b>
+
+411
+00:27:52,670 --> 00:27:55,740
+<b>- Don't worry. - Okay, thank you in advance.</b>
+
+412
+00:27:55,740 --> 00:27:57,280
+<b>- Sure. You should go. - Okay.</b>
+
+413
+00:27:57,280 --> 00:27:58,380
+<b>Bye.</b>
+
+414
+00:28:04,020 --> 00:28:05,290
+<b>How much time do we have left?</b>
+
+415
+00:28:05,550 --> 00:28:08,560
+<b>Seung Ho. Seung Ho, wake up!</b>
+
+416
+00:28:08,890 --> 00:28:09,890
+<b>What time is it?</b>
+
+417
+00:28:10,130 --> 00:28:11,860
+<b>- 3:50pm. - We have 10 minutes left.</b>
+
+418
+00:28:12,090 --> 00:28:14,500
+<b>- Gosh, my hands are shaking. - We can do it.</b>
+
+419
+00:28:15,760 --> 00:28:16,900
+<b>My goodness.</b>
+
+420
+00:28:17,970 --> 00:28:20,440
+<b>Aunt, is this how you do it?</b>
+
+421
+00:28:20,440 --> 00:28:24,140
+<b>I'm really busy right now. Will you please leave me alone?</b>
+
+422
+00:28:24,470 --> 00:28:25,540
+<b>Ha Ri.</b>
+
+423
+00:28:26,370 --> 00:28:28,610
+<b>I think you should take a look.</b>
+
+424
+00:28:34,920 --> 00:28:36,050
+<b>Is this how you do it?</b>
+
+425
+00:28:38,720 --> 00:28:39,790
+<b>You look adorable.</b>
+
+426
+00:28:40,860 --> 00:28:42,890
+<b>No, I can't do this. There's no time.</b>
+
+427
+00:28:43,160 --> 00:28:44,690
+<b>What are you doing?</b>
+
+428
+00:28:44,790 --> 00:28:48,860
+<b>I really need to go to Yeon Ho's interview on time.</b>
+
+429
+00:28:48,860 --> 00:28:50,830
+<b>If I'm late to this one, it'll be an international embarrassment.</b>
+
+430
+00:28:50,830 --> 00:28:52,000
+<b>What are you talking about?</b>
+
+431
+00:28:52,000 --> 00:28:54,470
+<b>- I can't... - We can't postpone this one.</b>
+
+432
+00:28:54,470 --> 00:28:55,800
+<b>- Please. - I have to go.</b>
+
+433
+00:28:55,800 --> 00:28:56,940
+<b>Please just take a couple of photos.</b>
+
+434
+00:28:57,010 --> 00:28:58,110
+<b>Give me the draft.</b>
+
+435
+00:29:02,910 --> 00:29:04,080
+<b>I don't like babies.</b>
+
+436
+00:29:04,380 --> 00:29:05,550
+<b>So you can be the one to make her smile.</b>
+
+437
+00:29:06,980 --> 00:29:08,050
+<b>What do I need to do?</b>
+
+438
+00:29:09,750 --> 00:29:13,320
+<b>She's a baby model, so make sure she smiles.</b>
+
+439
+00:29:13,560 --> 00:29:14,720
+<b>And the toys need to show.</b>
+
+440
+00:29:14,720 --> 00:29:16,930
+<b>The draft is right here. Do me a favor.</b>
+
+441
+00:29:16,930 --> 00:29:19,030
+<b>I'm sorry. Thank you, I Sang.</b>
+
+442
+00:29:19,330 --> 00:29:20,400
+<b>Sorry!</b>
+
+443
+00:29:27,300 --> 00:29:29,540
+<b>You're adorable! Look over here!</b>
+
+444
+00:29:30,740 --> 00:29:33,270
+<b>Na Eun, raise your hand! Smile!</b>
+
+445
+00:29:38,280 --> 00:29:40,680
+<b>Hey, can you smile a little?</b>
+
+446
+00:29:40,980 --> 00:29:42,120
+<b>She'll cry because of you.</b>
+
+447
+00:29:43,620 --> 00:29:45,750
+<b>Does my back still look small to you?</b>
+
+448
+00:29:52,090 --> 00:29:54,160
+<b>It kind of looks broader now.</b>
+
+449
+00:29:55,400 --> 00:29:58,030
+<b>Na Eun, let me join you!</b>
+
+450
+00:29:58,030 --> 00:30:00,140
+<b>Hey, look. Na Eun, look at the bubbles.</b>
+
+451
+00:30:00,140 --> 00:30:02,340
+<b>Look how pretty the bubbles are!</b>
+
+452
+00:30:08,880 --> 00:30:10,680
+<b>What about Mr. Kim in the Publishing Team?</b>
+
+453
+00:30:15,820 --> 00:30:16,990
+<b>People say he's gay.</b>
+
+454
+00:30:19,550 --> 00:30:21,090
+<b>What about Mr. Oh in the Monthly Fashion Team?</b>
+
+455
+00:30:24,930 --> 00:30:26,360
+<b>He's already dating someone.</b>
+
+456
+00:30:28,800 --> 00:30:30,070
+<b>What are we going to do with Ha Ri?</b>
+
+457
+00:30:30,230 --> 00:30:31,670
+<b>I can't believe there's no one...</b>
+
+458
+00:30:33,300 --> 00:30:34,370
+<b>to introduce to her.</b>
+
+459
+00:30:37,640 --> 00:30:40,240
+<b>If you date a colleague, you'll have a lot in common,</b>
+
+460
+00:30:40,240 --> 00:30:42,340
+<b>and it's also great because they understand your hardships.</b>
+
+461
+00:30:42,340 --> 00:30:45,480
+<b>But it's hard to actually date someone in the first place.</b>
+
+462
+00:30:46,280 --> 00:30:47,980
+<b>Would you date a colleague?</b>
+
+463
+00:30:47,980 --> 00:30:50,690
+<b>Gosh, no way. Our company sucks.</b>
+
+464
+00:30:53,020 --> 00:30:54,690
+<b>See? She works here,</b>
+
+465
+00:30:54,690 --> 00:30:56,490
+<b>but she wants to date someone who works at a better company.</b>
+
+466
+00:30:57,090 --> 00:31:00,460
+<b>You normally badmouth your colleagues, not fall in love.</b>
+
+467
+00:31:01,230 --> 00:31:04,200
+<b>Actually, I'm dating Seung Ho in the Camera Team.</b>
+
+468
+00:31:04,530 --> 00:31:05,670
+<b>- Since when? - Since when?</b>
+
+469
+00:31:07,100 --> 00:31:10,470
+<b>I asked him out the day Ha Ri said we'll end up just like her.</b>
+
+470
+00:31:11,310 --> 00:31:13,440
+<b>- You're amazing. - Thanks.</b>
+
+471
+00:31:14,940 --> 00:31:19,610
+<b>Anyway, there's a reason why people don't date their colleagues.</b>
+
+472
+00:31:19,910 --> 00:31:21,620
+<b>But if she fails to find someone outside of work,</b>
+
+473
+00:31:21,980 --> 00:31:24,590
+<b>we'll have to keep watching her live a sad life.</b>
+
+474
+00:31:35,300 --> 00:31:37,170
+<b>I know you'll be at the beauty salon.</b>
+
+475
+00:31:38,630 --> 00:31:40,540
+<b>I'm going to Gangnam for business.</b>
+
+476
+00:31:40,640 --> 00:31:42,270
+<b>I can easily drop by.</b>
+
+477
+00:31:43,040 --> 00:31:45,270
+<b>Okay. Bye.</b>
+
+478
+00:31:45,970 --> 00:31:48,740
+<b>Ha Ri, are you going on a blind date?</b>
+
+479
+00:31:48,910 --> 00:31:49,980
+<b>No.</b>
+
+480
+00:31:50,310 --> 00:31:54,750
+<b>Oh, I see. But still, you can't carry everything dressed like that.</b>
+
+481
+00:31:54,880 --> 00:31:56,790
+<b>It's the weekend, so there won't be a lot of empty cabs either.</b>
+
+482
+00:31:56,790 --> 00:31:59,320
+<b>Hey, you should give her a lift. You're also heading to Gangnam.</b>
+
+483
+00:31:59,890 --> 00:32:01,860
+<b>- No, I'm not. - You're not?</b>
+
+484
+00:32:02,760 --> 00:32:04,160
+<b>Forget it.</b>
+
+485
+00:32:06,160 --> 00:32:07,260
+<b>I'll see you.</b>
+
+486
+00:32:08,360 --> 00:32:09,960
+<b>But I'm sure that's heavy.</b>
+
+487
+00:32:10,400 --> 00:32:11,470
+<b>Or maybe not.</b>
+
+488
+00:32:12,300 --> 00:32:13,370
+<b>Hey.</b>
+
+489
+00:32:48,040 --> 00:32:50,370
+<b>I lied earlier. I'm heading that way, so I'll give you a lift.</b>
+
+490
+00:32:50,640 --> 00:32:52,610
+<b>- No thanks. - I wouldn't mind the company.</b>
+
+491
+00:32:52,610 --> 00:32:53,780
+<b>Well, I would.</b>
+
+492
+00:32:55,440 --> 00:32:57,010
+<b>I'll park here until you hop in.</b>
+
+493
+00:32:59,280 --> 00:33:02,320
+<b>We should stay clear of each other, so I'll get in the back.</b>
+
+494
+00:33:13,530 --> 00:33:14,530
+<b>Thanks.</b>
+
+495
+00:33:15,660 --> 00:33:16,730
+<b>Okay.</b>
+
+496
+00:33:29,110 --> 00:33:30,410
+<b>Thanks. Have a good day.</b>
+
+497
+00:33:52,600 --> 00:33:53,870
+<b>You said you're off to a wedding.</b>
+
+498
+00:33:54,440 --> 00:33:55,670
+<b>I can drop you off, so hop in.</b>
+
+499
+00:33:59,240 --> 00:34:00,480
+<b>Must I get the door for you too?</b>
+
+500
+00:34:14,190 --> 00:34:15,190
+<b>Thanks.</b>
+
+501
+00:34:20,630 --> 00:34:23,000
+<b>My cousin is getting married today.</b>
+
+502
+00:34:24,370 --> 00:34:26,730
+<b>You gave me a ride, so why don't you stay for a meal?</b>
+
+503
+00:34:28,500 --> 00:34:30,910
+<b>- No thanks. - The snow crabs are to die for.</b>
+
+504
+00:34:31,670 --> 00:34:34,140
+<b>I'll treat you to a meal next time then. Thanks.</b>
+
+505
+00:34:39,010 --> 00:34:40,320
+<b>Snow crabs?</b>
+
+506
+00:34:43,950 --> 00:34:45,820
+<b>- Auntie, congratulations. - Thanks, Ha Ri.</b>
+
+507
+00:34:45,820 --> 00:34:47,590
+<b>You made time out of your busy schedule?</b>
+
+508
+00:34:47,590 --> 00:34:49,120
+<b>It's true that I've been busy.</b>
+
+509
+00:34:49,120 --> 00:34:50,430
+<b>Anyway, head that way.</b>
+
+510
+00:34:51,490 --> 00:34:53,290
+<b>- Hello. - I'm so glad you came.</b>
+
+511
+00:34:53,290 --> 00:34:54,660
+<b>Gosh, thank you.</b>
+
+512
+00:34:55,560 --> 00:34:56,900
+<b>- Ok Ran! - My goodness.</b>
+
+513
+00:34:56,900 --> 00:34:59,300
+<b>The traffic was awful on my way here.</b>
+
+514
+00:34:59,830 --> 00:35:02,340
+<b>I can't believe you look prettier than the bride today.</b>
+
+515
+00:35:03,100 --> 00:35:04,870
+<b>Exactly. She should've known better.</b>
+
+516
+00:35:04,870 --> 00:35:07,210
+<b>Anyway, congratulations. You must be ecstatic.</b>
+
+517
+00:35:09,680 --> 00:35:12,150
+<b>Ha Ri said she couldn't come because of a deadline.</b>
+
+518
+00:35:12,150 --> 00:35:13,880
+<b>You have no idea how sorry she is.</b>
+
+519
+00:35:14,880 --> 00:35:16,480
+<b>What are you talking about?</b>
+
+520
+00:35:16,820 --> 00:35:19,220
+<b>Ha Ri's already here.</b>
+
+521
+00:35:19,550 --> 00:35:20,590
+<b>She's over there.</b>
+
+522
+00:35:23,060 --> 00:35:24,930
+<b>Gosh, congratulations.</b>
+
+523
+00:35:28,730 --> 00:35:30,330
+<b>You look stunning.</b>
+
+524
+00:35:30,700 --> 00:35:32,370
+<b>I sense the tears coming.</b>
+
+525
+00:35:33,230 --> 00:35:35,340
+<b>One might think you raised me.</b>
+
+526
+00:35:36,270 --> 00:35:37,440
+<b>You said you couldn't come.</b>
+
+527
+00:35:38,210 --> 00:35:39,640
+<b>It wasn't easy to free up my schedule.</b>
+
+528
+00:35:39,910 --> 00:35:41,980
+<b>Anyway, I even got you a huge gift.</b>
+
+529
+00:35:42,940 --> 00:35:43,950
+<b>As in what?</b>
+
+530
+00:35:56,290 --> 00:35:58,130
+<b>You should've told me that you were coming.</b>
+
+531
+00:35:58,490 --> 00:36:00,630
+<b>How can I cover for you when you don't tell me things?</b>
+
+532
+00:36:01,260 --> 00:36:03,430
+<b>Come to think of it, this is where my best shot lies.</b>
+
+533
+00:36:03,700 --> 00:36:05,330
+<b>Quite a number of bachelors will be here...</b>
+
+534
+00:36:05,600 --> 00:36:07,740
+<b>and watching the ceremony will plant the idea of marriage.</b>
+
+535
+00:36:08,040 --> 00:36:09,370
+<b>What on earth are you saying?</b>
+
+536
+00:36:15,080 --> 00:36:16,240
+<b>Stop shaking your legs.</b>
+
+537
+00:36:17,480 --> 00:36:18,610
+<b>I'm nervous, that's all.</b>
+
+538
+00:36:18,680 --> 00:36:20,350
+<b>Why would you be when it's not your wedding?</b>
+
+539
+00:36:25,950 --> 00:36:29,060
+<b>Next, we have a guest performer...</b>
+
+540
+00:36:29,060 --> 00:36:31,090
+<b>who will like to present...</b>
+
+541
+00:36:31,560 --> 00:36:34,630
+<b>a nuptial song to wish the couple's happiness.</b>
+
+542
+00:36:35,100 --> 00:36:37,430
+<b>It's none other than the bride's...</b>
+
+543
+00:36:37,430 --> 00:36:38,870
+<b>- cousin. - Where are you going?</b>
+
+544
+00:36:38,930 --> 00:36:40,230
+<b>Could you join us up here?</b>
+
+545
+00:36:43,700 --> 00:36:44,940
+<b>- What... - Ha Ri?</b>
+
+546
+00:36:45,140 --> 00:36:47,540
+<b>- Honey, goodness. - My gosh.</b>
+
+547
+00:36:49,940 --> 00:36:53,680
+<b>Hello, I'm Eun Joo's older cousin,</b>
+
+548
+00:36:53,680 --> 00:36:55,180
+<b>Jang Ha Ri.</b>
+
+549
+00:36:55,850 --> 00:36:59,220
+<b>I know I look young to be older than her, but still.</b>
+
+550
+00:37:00,050 --> 00:37:01,960
+<b>I'm only slightly older than her.</b>
+
+551
+00:37:02,420 --> 00:37:05,130
+<b>My singing isn't nowhere near perfect,</b>
+
+552
+00:37:05,660 --> 00:37:07,500
+<b>but I hope you enjoy it...</b>
+
+553
+00:37:07,630 --> 00:37:10,000
+<b>and consider it as...</b>
+
+554
+00:37:10,000 --> 00:37:12,100
+<b>my way of wishing her...</b>
+
+555
+00:37:12,330 --> 00:37:13,600
+<b>a happy marriage.</b>
+
+556
+00:37:16,540 --> 00:37:17,640
+<b>Cue, music.</b>
+
+557
+00:37:35,160 --> 00:37:38,430
+<b>Fill me with your love</b>
+
+558
+00:37:38,530 --> 00:37:42,100
+<b>I guess my love needs to be recharged</b>
+
+559
+00:37:42,400 --> 00:37:46,530
+<b>I can't live without you, I really can't</b>
+
+560
+00:37:46,800 --> 00:37:49,700
+<b>You're my battery that charges my love</b>
+
+561
+00:37:50,440 --> 00:37:53,110
+<b>I don't care if you're not super handsome</b>
+
+562
+00:37:54,140 --> 00:37:56,710
+<b>I don't care if you don't have the fittest body</b>
+
+563
+00:37:57,780 --> 00:38:00,850
+<b>But you who will care for me dearly</b>
+
+564
+00:38:01,220 --> 00:38:04,020
+<b>You are the man of my dreams</b>
+
+565
+00:38:05,120 --> 00:38:07,660
+<b>Hug me once more</b>
+
+566
+00:38:08,720 --> 00:38:11,830
+<b>Embrace me in your arms until my heart bursts</b>
+
+567
+00:38:12,430 --> 00:38:15,460
+<b>I guess my love needs to be recharged</b>
+
+568
+00:38:15,900 --> 00:38:18,770
+<b>That's why you're the one I need</b>
+
+569
+00:38:19,070 --> 00:38:22,240
+<b>Fill me with your love</b>
+
+570
+00:38:22,540 --> 00:38:26,170
+<b>I guess my love needs to be recharged</b>
+
+571
+00:38:26,370 --> 00:38:30,110
+<b>I can't live without you, I really can't</b>
+
+572
+00:38:30,750 --> 00:38:33,480
+<b>You're my battery that charges my love</b>
+
+573
+00:38:47,130 --> 00:38:48,260
+<b>Ms. Jang...</b>
+
+574
+00:39:12,020 --> 00:39:13,120
+<b>What on earth?</b>
+
+575
+00:39:13,150 --> 00:39:15,620
+<b>Why are you getting in people's way?</b>
+
+576
+00:39:16,090 --> 00:39:17,660
+<b>I'm not blocking anyone's path.</b>
+
+577
+00:39:17,960 --> 00:39:20,390
+<b>But because of you...</b>
+
+578
+00:39:23,400 --> 00:39:24,470
+<b>Why are you here?</b>
+
+579
+00:39:26,270 --> 00:39:27,270
+<b>My meal ticket.</b>
+
+580
+00:39:30,770 --> 00:39:33,010
+<b>I haven't had snow crabs before.</b>
+
+581
+00:39:33,040 --> 00:39:34,340
+<b>Only blue crabs.</b>
+
+582
+00:39:41,080 --> 00:39:42,250
+<b>Thank you.</b>
+
+583
+00:39:42,680 --> 00:39:44,750
+<b>The dining hall is this way.</b>
+
+584
+00:39:49,290 --> 00:39:51,360
+<b>I was just about to get lucky.</b>
+
+585
+00:39:58,770 --> 00:40:01,840
+<b>Ha Ri, that's enough. You look desperate.</b>
+
+586
+00:40:01,840 --> 00:40:04,070
+<b>If you know what I'm doing, start looking too.</b>
+
+587
+00:40:04,070 --> 00:40:07,780
+<b>How old is Eun Joo's husband again? 32?</b>
+
+588
+00:40:08,110 --> 00:40:10,510
+<b>Does he have an older brother? A young uncle wouldn't be so bad.</b>
+
+589
+00:40:10,810 --> 00:40:12,580
+<b>Don't embarrass yourself and just eat your meal.</b>
+
+590
+00:40:15,280 --> 00:40:17,050
+<b>Mom, can you keep an eye on him?</b>
+
+591
+00:40:17,120 --> 00:40:19,090
+<b>- Sure. - I need to go to the restroom.</b>
+
+592
+00:40:19,190 --> 00:40:20,860
+<b>- Go ahead. - Come to Grandma.</b>
+
+593
+00:40:21,890 --> 00:40:22,990
+<b>What would you like?</b>
+
+594
+00:40:23,960 --> 00:40:24,990
+<b>- Good boy. - Look at him eat.</b>
+
+595
+00:40:24,990 --> 00:40:26,460
+<b>My sweet little puppy.</b>
+
+596
+00:40:29,300 --> 00:40:30,530
+<b>Your singing was amazing.</b>
+
+597
+00:40:33,500 --> 00:40:35,340
+<b>Ha Ri, you've got a successful career,</b>
+
+598
+00:40:35,340 --> 00:40:36,700
+<b>so stick to living alone.</b>
+
+599
+00:40:37,240 --> 00:40:39,210
+<b>You haven't been able to get married or have a child,</b>
+
+600
+00:40:39,210 --> 00:40:40,940
+<b>so living alone would be more comfortable.</b>
+
+601
+00:40:41,610 --> 00:40:43,740
+<b>Who cares if you're a little lonely?</b>
+
+602
+00:40:45,150 --> 00:40:48,320
+<b>Just earn enough money to live in a retirement home.</b>
+
+603
+00:40:49,250 --> 00:40:51,820
+<b>Did you hear about the old people there...</b>
+
+604
+00:40:51,820 --> 00:40:53,320
+<b>getting beat up these days?</b>
+
+605
+00:40:53,590 --> 00:40:55,260
+<b>Only animals would do such a thing.</b>
+
+606
+00:40:55,260 --> 00:40:56,620
+<b>Tell me about it.</b>
+
+607
+00:40:57,760 --> 00:40:59,090
+<b>Dig in.</b>
+
+608
+00:40:59,560 --> 00:41:01,030
+<b>I'm going to get married.</b>
+
+609
+00:41:04,100 --> 00:41:06,470
+<b>My mom should be congratulated too, you know.</b>
+
+610
+00:41:07,130 --> 00:41:09,470
+<b>Please set me up with anyone decent you know.</b>
+
+611
+00:41:09,540 --> 00:41:11,740
+<b>Auntie, set a blind date if you find anyone.</b>
+
+612
+00:41:11,810 --> 00:41:13,910
+<b>Got it? Is everyone on board? Good.</b>
+
+613
+00:41:22,450 --> 00:41:25,420
+<b>Goodness, the snow crabs have been served.</b>
+
+614
+00:41:25,420 --> 00:41:26,790
+<b>- What? - Hold on.</b>
+
+615
+00:41:27,290 --> 00:41:29,560
+<b>- The snow crabs? - Auntie, wait.</b>
+
+616
+00:41:29,990 --> 00:41:31,230
+<b>Auntie?</b>
+
+617
+00:41:31,930 --> 00:41:32,930
+<b>Crabs...</b>
+
+618
+00:41:40,270 --> 00:41:41,900
+<b>They care more about the snow crabs than you.</b>
+
+619
+00:41:45,970 --> 00:41:47,410
+<b>Your aunt already set you up with numerous men.</b>
+
+620
+00:41:47,410 --> 00:41:50,850
+<b>Who would she have left for someone who's close to 40?</b>
+
+621
+00:41:50,850 --> 00:41:54,050
+<b>No one's been interested in you for a few years now!</b>
+
+622
+00:42:10,300 --> 00:42:13,130
+<b>Anyway, who gets married at a young age these days.</b>
+
+623
+00:42:13,800 --> 00:42:16,170
+<b>A lot of women marry at your age.</b>
+
+624
+00:42:17,540 --> 00:42:18,910
+<b>Don't think you're running out of time.</b>
+
+625
+00:42:19,140 --> 00:42:21,310
+<b>The man that's meant to be will turn up.</b>
+
+626
+00:42:25,910 --> 00:42:29,280
+<b>I thought it was my bad luck that kept me from marriage,</b>
+
+627
+00:42:31,350 --> 00:42:33,250
+<b>but you're having it tough because of me too.</b>
+
+628
+00:42:35,120 --> 00:42:37,290
+<b>You can't enjoy having a son-in-law and grandchildren.</b>
+
+629
+00:42:39,260 --> 00:42:42,030
+<b>What can't I enjoy? That's not all that great.</b>
+
+630
+00:42:42,030 --> 00:42:43,100
+<b>I enjoy myself just fine.</b>
+
+631
+00:42:45,100 --> 00:42:46,200
+<b>And...</b>
+
+632
+00:42:48,040 --> 00:42:49,540
+<b>don't look in strange places.</b>
+
+633
+00:42:50,340 --> 00:42:51,970
+<b>Look close by.</b>
+
+634
+00:42:52,270 --> 00:42:53,370
+<b>Don't you know?</b>
+
+635
+00:42:53,640 --> 00:42:56,710
+<b>The bluebird is in the small room in your house.</b>
+
+636
+00:42:59,010 --> 00:43:00,180
+<b>Why is that there?</b>
+
+637
+00:43:23,300 --> 00:43:26,140
+<b>(Han I Sang)</b>
+
+638
+00:43:26,410 --> 00:43:27,610
+<b>Why did you go to Gangnam?</b>
+
+639
+00:43:27,610 --> 00:43:28,840
+<b>I said I'd come here.</b>
+
+640
+00:43:29,910 --> 00:43:32,080
+<b>I went to watch a dance for a bit.</b>
+
+641
+00:43:32,480 --> 00:43:33,610
+<b>- A dance? - Yes.</b>
+
+642
+00:43:47,290 --> 00:43:48,330
+<b>Jang Ha Ri.</b>
+
+643
+00:44:03,010 --> 00:44:04,310
+<b>Here's the dancer.</b>
+
+644
+00:44:05,580 --> 00:44:07,410
+<b>Dancer? Where?</b>
+
+645
+00:44:08,320 --> 00:44:09,680
+<b>- Where? - Never mind.</b>
+
+646
+00:44:09,680 --> 00:44:11,790
+<b>- Hello. It's nice to meet you. - Hello.</b>
+
+647
+00:44:12,690 --> 00:44:16,620
+<b>It's dinner time. Why don't we go eat?</b>
+
+648
+00:44:16,620 --> 00:44:17,760
+<b>I ordered already.</b>
+
+649
+00:44:18,130 --> 00:44:19,190
+<b>What would you like?</b>
+
+650
+00:44:23,400 --> 00:44:24,730
+<b>Iced Americano.</b>
+
+651
+00:44:25,100 --> 00:44:26,470
+<b>- Pardon? - Just a minute.</b>
+
+652
+00:44:28,270 --> 00:44:29,370
+<b>Shall we go?</b>
+
+653
+00:44:30,670 --> 00:44:33,440
+<b>I want to have some more coffee. Their coffee is good.</b>
+
+654
+00:44:41,150 --> 00:44:42,220
+<b>Hot Americano.</b>
+
+655
+00:44:45,190 --> 00:44:46,750
+<b>- Yes. - Mine is iced.</b>
+
+656
+00:44:48,820 --> 00:44:50,690
+<b>Jae Young told you about me, right?</b>
+
+657
+00:44:52,060 --> 00:44:54,760
+<b>He said you were married briefly.</b>
+
+658
+00:44:55,230 --> 00:44:57,330
+<b>You must've been hesitant about meeting a divorcee.</b>
+
+659
+00:44:57,330 --> 00:45:01,400
+<b>Not at all. I get so much judgment for not being married.</b>
+
+660
+00:45:01,400 --> 00:45:03,970
+<b>There are times when I think being divorced is better.</b>
+
+661
+00:45:04,310 --> 00:45:05,640
+<b>I got married when I was 40 too.</b>
+
+662
+00:45:09,310 --> 00:45:11,980
+<b>You never imagined you'd still be single at this age, right?</b>
+
+663
+00:45:14,250 --> 00:45:15,350
+<b>No.</b>
+
+664
+00:45:17,620 --> 00:45:20,190
+<b>It gets harder to meet people the older you get.</b>
+
+665
+00:45:20,320 --> 00:45:22,890
+<b>To be honest, there's a lot of pressure.</b>
+
+666
+00:45:23,120 --> 00:45:24,530
+<b>I realized from being married,</b>
+
+667
+00:45:24,830 --> 00:45:27,900
+<b>that the couple's families must adjust as well as the couple.</b>
+
+668
+00:45:29,160 --> 00:45:30,300
+<b>It isn't easy.</b>
+
+669
+00:45:33,930 --> 00:45:36,200
+<b>Dating and marriage...</b>
+
+670
+00:45:37,040 --> 00:45:38,240
+<b>are all so hard.</b>
+
+671
+00:45:43,210 --> 00:45:44,310
+<b>Even if...</b>
+
+672
+00:45:47,650 --> 00:45:49,220
+<b>it takes a while,</b>
+
+673
+00:45:51,490 --> 00:45:53,120
+<b>why don't we get closer slowly?</b>
+
+674
+00:45:57,520 --> 00:46:02,260
+<b>If you say a while and slowly... How long?</b>
+
+675
+00:46:03,460 --> 00:46:05,400
+<b>It'll be hard to have kids if I wait too long.</b>
+
+676
+00:46:05,500 --> 00:46:06,570
+<b>Kids...</b>
+
+677
+00:46:07,870 --> 00:46:12,370
+<b>You can have kids when you're 60 if you have the money.</b>
+
+678
+00:46:12,370 --> 00:46:14,270
+<b>Even Trump had a son when he was 60.</b>
+
+679
+00:46:17,280 --> 00:46:19,250
+<b>A woman can't have kids in their 60s.</b>
+
+680
+00:46:22,080 --> 00:46:25,290
+<b>So, saying I have 10 years until menopause,</b>
+
+681
+00:46:25,390 --> 00:46:27,790
+<b>12 times a year for 10 years is 120.</b>
+
+682
+00:46:27,790 --> 00:46:30,390
+<b>I only have 120 chances at getting pregnant.</b>
+
+683
+00:46:30,390 --> 00:46:32,190
+<b>How many of those do you think will make it...</b>
+
+684
+00:46:32,960 --> 00:46:35,530
+<b>when I couldn't do it for 10 years? I don't have a guy.</b>
+
+685
+00:46:35,830 --> 00:46:37,430
+<b>I don't know when I'll get married.</b>
+
+686
+00:46:38,100 --> 00:46:40,400
+<b>And that's only when you have many eggs...</b>
+
+687
+00:46:55,820 --> 00:46:57,220
+<b>So my point is...</b>
+
+688
+00:46:58,650 --> 00:46:59,720
+<b>I envy men.</b>
+
+689
+00:47:15,700 --> 00:47:17,440
+<b>What's wrong, Do Ah?</b>
+
+690
+00:47:21,410 --> 00:47:24,080
+<b>Oh no. Did you wake up?</b>
+
+691
+00:47:24,080 --> 00:47:25,850
+<b>It's okay.</b>
+
+692
+00:47:26,110 --> 00:47:28,620
+<b>(Galaxy Cafe on the Hills of Montmartre)</b>
+
+693
+00:47:45,800 --> 00:47:50,100
+<b>Let's get yummies for our Do Ah.</b>
+
+694
+00:47:50,240 --> 00:47:51,470
+<b>Yummies.</b>
+
+695
+00:47:52,010 --> 00:47:53,470
+<b>Well...</b>
+
+696
+00:47:54,640 --> 00:47:59,110
+<b>Yummies for Do Ah's daddy.</b>
+
+697
+00:47:59,210 --> 00:48:00,750
+<b>For Do Ah's daddy.</b>
+
+698
+00:48:06,190 --> 00:48:07,250
+<b>Let's go.</b>
+
+699
+00:48:08,360 --> 00:48:09,690
+<b>Do you live nearby?</b>
+
+700
+00:48:09,890 --> 00:48:11,060
+<b>I live here.</b>
+
+701
+00:48:11,560 --> 00:48:15,360
+<b>I didn't think that guy would share an umbrella with you,</b>
+
+702
+00:48:15,360 --> 00:48:17,160
+<b>so I ran out and bought one.</b>
+
+703
+00:48:17,900 --> 00:48:19,030
+<b>Let's share.</b>
+
+704
+00:48:19,630 --> 00:48:20,730
+<b>Is this amusing to you?</b>
+
+705
+00:48:22,640 --> 00:48:23,840
+<b>You watched on purpose.</b>
+
+706
+00:48:28,840 --> 00:48:30,210
+<b>Don't be mad.</b>
+
+707
+00:48:32,880 --> 00:48:34,150
+<b>Don't you know how you apologize?</b>
+
+708
+00:48:36,180 --> 00:48:40,150
+<b>Why do you always show up during my most humiliating moments?</b>
+
+709
+00:48:40,590 --> 00:48:42,620
+<b>You're so... Every time...</b>
+
+710
+00:48:43,390 --> 00:48:44,530
+<b>Don't follow me!</b>
+
+711
+00:48:45,260 --> 00:48:48,960
+<b>But... I didn't think much of it...</b>
+
+712
+00:48:49,060 --> 00:48:50,660
+<b>and watched.</b>
+
+713
+00:48:51,170 --> 00:48:53,770
+<b>I didn't mean to humiliate you. I'm sorry.</b>
+
+714
+00:48:54,470 --> 00:48:57,040
+<b>Ha Ri. Wait. Ha Ri.</b>
+
+715
+00:48:57,400 --> 00:48:58,510
+<b>Ha Ri.</b>
+
+716
+00:49:00,640 --> 00:49:02,480
+<b>What...</b>
+
+717
+00:49:02,740 --> 00:49:03,940
+<b>Why did that...</b>
+
+718
+00:49:04,180 --> 00:49:05,350
+<b>My suit...</b>
+
+719
+00:49:05,910 --> 00:49:07,010
+<b>Oh no.</b>
+
+720
+00:49:11,220 --> 00:49:12,290
+<b>Ha Ri!</b>
+
+721
+00:49:16,230 --> 00:49:17,330
+<b>Ha Ri!</b>
+
+722
+00:49:18,530 --> 00:49:19,630
+<b>What is he doing?</b>
+
+723
+00:49:20,000 --> 00:49:21,030
+<b>What is it?</b>
+
+724
+00:49:23,970 --> 00:49:26,140
+<b>- Ha Ri, are you okay? - My suit...</b>
+
+725
+00:49:26,240 --> 00:49:28,040
+<b>What do you think you're doing?</b>
+
+726
+00:49:28,040 --> 00:49:29,840
+<b>- Let go of me! - What's wrong with you?</b>
+
+727
+00:49:29,840 --> 00:49:31,640
+<b>- Where did you come from? - Who are you?</b>
+
+728
+00:49:31,640 --> 00:49:32,840
+<b>Are you a mugger? A pervert?</b>
+
+729
+00:49:32,840 --> 00:49:34,310
+<b>What do you do for a living?</b>
+
+730
+00:49:34,310 --> 00:49:38,480
+<b>How do I look like a pervert or mugger to you?</b>
+
+731
+00:49:38,480 --> 00:49:41,250
+<b>You're more suspicious because you look normal!</b>
+
+732
+00:49:41,650 --> 00:49:45,020
+<b>And you shouldn't fall for it just because a guy talks to you.</b>
+
+733
+00:49:45,120 --> 00:49:47,120
+<b>What... What are you babbling about?</b>
+
+734
+00:49:47,120 --> 00:49:49,690
+<b>Let go!</b>
+
+735
+00:49:51,760 --> 00:49:52,760
+<b>Seriously.</b>
+
+736
+00:50:01,640 --> 00:50:03,440
+<b>- What? - You punk.</b>
+
+737
+00:50:07,640 --> 00:50:08,950
+<b>This is so embarrassing!</b>
+
+738
+00:50:15,620 --> 00:50:16,720
+<b>Stop it.</b>
+
+739
+00:50:17,490 --> 00:50:19,360
+<b>What?</b>
+
+740
+00:50:38,580 --> 00:50:40,640
+<b>Let go.</b>
+
+741
+00:50:42,450 --> 00:50:43,550
+<b>Darn it.</b>
+
+742
+00:50:50,720 --> 00:50:51,860
+<b>Oh no!</b>
+
+743
+00:50:52,860 --> 00:50:54,120
+<b>Stop it.</b>
+
+744
+00:50:54,290 --> 00:50:57,190
+<b>Jae Young, stop it already!</b>
+
+745
+00:50:57,390 --> 00:50:59,860
+<b>- Hey! Let go. - Wait.</b>
+
+746
+00:51:00,000 --> 00:51:01,670
+<b>Stop it!</b>
+
+747
+00:51:02,200 --> 00:51:03,270
+<b>Let go!</b>
+
+748
+00:51:05,700 --> 00:51:06,840
+<b>Stop it!</b>
+
+749
+00:51:07,440 --> 00:51:08,610
+<b>Let go!</b>
+
+750
+00:51:11,110 --> 00:51:12,210
+<b>Stop it!</b>
+
+751
+00:51:16,280 --> 00:51:17,350
+<b>I'm so cold.</b>
+
+752
+00:51:26,590 --> 00:51:29,490
+<b>Anyway. Sorry about that.</b>
+
+753
+00:51:29,860 --> 00:51:32,130
+<b>I didn't know you were her colleague.</b>
+
+754
+00:51:32,500 --> 00:51:33,960
+<b>He isn't my colleague.</b>
+
+755
+00:51:34,600 --> 00:51:37,370
+<b>Ha Ri and I are like siblings.</b>
+
+756
+00:51:37,530 --> 00:51:39,570
+<b>And I thought she was in danger.</b>
+
+757
+00:51:39,970 --> 00:51:41,000
+<b>You punk.</b>
+
+758
+00:51:41,040 --> 00:51:43,840
+<b>You should get along with your colleague.</b>
+
+759
+00:51:43,840 --> 00:51:45,380
+<b>Why would you have a fight in the middle of the street?</b>
+
+760
+00:51:45,410 --> 00:51:46,940
+<b>- We're not colleagues. - We're not colleagues.</b>
+
+761
+00:51:50,680 --> 00:51:52,850
+<b>What about your blind date?</b>
+
+762
+00:51:52,850 --> 00:51:54,990
+<b>What were you doing outside...</b>
+
+763
+00:51:54,990 --> 00:51:56,990
+<b>with your jacket all ripped apart?</b>
+
+764
+00:51:57,960 --> 00:51:59,060
+<b>Did you get rejected again?</b>
+
+765
+00:52:01,190 --> 00:52:03,130
+<b>I didn't get rejected.</b>
+
+766
+00:52:03,260 --> 00:52:06,130
+<b>Do you think I get rejected all the time?</b>
+
+767
+00:52:06,160 --> 00:52:07,460
+<b>What's your problem?</b>
+
+768
+00:52:07,800 --> 00:52:09,470
+<b>Watch how you talk to me.</b>
+
+769
+00:52:09,830 --> 00:52:11,300
+<b>You're so mean.</b>
+
+770
+00:52:11,300 --> 00:52:13,670
+<b>You should do something about your nasty temper.</b>
+
+771
+00:52:14,670 --> 00:52:16,070
+<b>I was there.</b>
+
+772
+00:52:16,410 --> 00:52:19,310
+<b>She didn't get rejected.</b>
+
+773
+00:52:19,310 --> 00:52:24,720
+<b>I mean, she didn't exactly get rejected by him.</b>
+
+774
+00:52:25,280 --> 00:52:27,620
+<b>Anyway, they weren't meant for each other.</b>
+
+775
+00:52:27,620 --> 00:52:29,650
+<b>No one did anything wrong.</b>
+
+776
+00:52:32,190 --> 00:52:35,160
+<b>Gosh, what's the point of trying so hard?</b>
+
+777
+00:52:38,460 --> 00:52:40,700
+<b>Love only left me with heartaches...</b>
+
+778
+00:52:42,000 --> 00:52:43,800
+<b>and hardships.</b>
+
+779
+00:52:45,840 --> 00:52:48,610
+<b>Go. Just leave.</b>
+
+780
+00:52:49,210 --> 00:52:51,980
+<b>No! I can't break up with you!</b>
+
+781
+00:52:51,980 --> 00:52:53,440
+<b>We've done enough!</b>
+
+782
+00:52:53,440 --> 00:52:55,210
+<b>Why do we need to break up?</b>
+
+783
+00:52:55,210 --> 00:52:58,150
+<b>Nothing's ever worked out after I met you.</b>
+
+784
+00:52:59,980 --> 00:53:01,720
+<b>I'm sick of you!</b>
+
+785
+00:53:10,490 --> 00:53:14,000
+<b>It becomes meaningless once time passes by.</b>
+
+786
+00:53:16,400 --> 00:53:18,040
+<b>No matter how much you loved each other.</b>
+
+787
+00:53:24,440 --> 00:53:25,510
+<b>Put it back on.</b>
+
+788
+00:53:26,780 --> 00:53:28,710
+<b>I'm going to live a happy life.</b>
+
+789
+00:53:29,810 --> 00:53:32,020
+<b>So don't waste your time hating me.</b>
+
+790
+00:53:36,350 --> 00:53:37,520
+<b>I hope you become happy, too.</b>
+
+791
+00:53:48,030 --> 00:53:51,440
+<b>All break-ups are painful and horrible.</b>
+
+792
+00:53:52,900 --> 00:53:55,540
+<b>It leaves you with a heartache or a broken memory.</b>
+
+793
+00:53:55,710 --> 00:53:57,170
+<b>Or even both.</b>
+
+794
+00:53:58,540 --> 00:54:00,510
+<b>It just ruins you.</b>
+
+795
+00:54:06,880 --> 00:54:09,490
+<b>(Divorce Registration)</b>
+
+796
+00:54:13,520 --> 00:54:15,290
+<b>I'll take the furniture I bought.</b>
+
+797
+00:54:16,190 --> 00:54:17,360
+<b>I'll see you in court.</b>
+
+798
+00:54:19,360 --> 00:54:20,960
+<b>Gosh, that wench.</b>
+
+799
+00:54:25,600 --> 00:54:27,070
+<b>Yes, you're right.</b>
+
+800
+00:54:27,570 --> 00:54:30,740
+<b>Drink up. You poor punk.</b>
+
+801
+00:54:31,680 --> 00:54:33,210
+<b>Drink up.</b>
+
+802
+00:54:39,380 --> 00:54:42,320
+<b>Judging by the look on our faces,</b>
+
+803
+00:54:44,150 --> 00:54:45,920
+<b>no one here is in love.</b>
+
+804
+00:54:48,690 --> 00:54:51,630
+<b>I never once felt happy because of a guy.</b>
+
+805
+00:54:52,960 --> 00:54:55,470
+<b>So I wonder why I was so obsessed with getting married.</b>
+
+806
+00:54:56,500 --> 00:54:59,570
+<b>People talk as if I'm too old to get married anyway.</b>
+
+807
+00:55:08,780 --> 00:55:11,750
+<b>I'd rather be single and happy than become miserable...</b>
+
+808
+00:55:13,250 --> 00:55:15,020
+<b>just so I could get married.</b>
+
+809
+00:55:22,090 --> 00:55:23,990
+<b>This is nice.</b>
+
+810
+00:55:25,500 --> 00:55:27,030
+<b>Here.</b>
+
+811
+00:55:28,200 --> 00:55:30,330
+<b>(Eun Young)</b>
+
+812
+00:55:49,290 --> 00:55:50,350
+<b>My gosh.</b>
+
+813
+00:55:50,490 --> 00:55:53,420
+<b>What took you so long to come? Your deadline was over ages ago.</b>
+
+814
+00:55:53,890 --> 00:55:56,530
+<b>I thought you were a ghost. What's that on your forehead?</b>
+
+815
+00:55:57,160 --> 00:55:59,760
+<b>Why are you guys always so clingy?</b>
+
+816
+00:56:00,860 --> 00:56:01,970
+<b>"You guys"?</b>
+
+817
+00:56:03,200 --> 00:56:04,900
+<b>Jae Young moved into our place.</b>
+
+818
+00:56:05,770 --> 00:56:07,600
+<b>My mom let him move in.</b>
+
+819
+00:56:08,100 --> 00:56:09,870
+<b>"Yoon Jae Young"?</b>
+
+820
+00:56:10,210 --> 00:56:12,580
+<b>Hey, why would you let that traitor...</b>
+
+821
+00:56:12,580 --> 00:56:14,110
+<b>move into your place?</b>
+
+822
+00:56:14,310 --> 00:56:15,610
+<b>What a shameless jerk.</b>
+
+823
+00:56:15,610 --> 00:56:18,550
+<b>Why would you let him move in with you? Why?</b>
+
+824
+00:56:21,720 --> 00:56:24,450
+<b>You guys, say hello to Aunt Ha Ri.</b>
+
+825
+00:56:25,290 --> 00:56:26,360
+<b>Bow!</b>
+
+826
+00:56:26,520 --> 00:56:28,160
+<b>- Hello. - Hello.</b>
+
+827
+00:56:28,760 --> 00:56:31,960
+<b>Hey, you cutie pies. Have you been well? Here you go.</b>
+
+828
+00:56:36,330 --> 00:56:37,330
+<b>Hey!</b>
+
+829
+00:56:39,100 --> 00:56:42,810
+<b>You should get counseling. Your temper is getting worse.</b>
+
+830
+00:56:42,940 --> 00:56:45,480
+<b>Hey, take a look at me.</b>
+
+831
+00:56:45,480 --> 00:56:46,840
+<b>How do you expect me to be sane?</b>
+
+832
+00:56:47,010 --> 00:56:49,910
+<b>You need to come over and spend time with the kids...</b>
+
+833
+00:56:49,910 --> 00:56:53,380
+<b>if you want me to stay sane.</b>
+
+834
+00:56:57,250 --> 00:56:59,160
+<b>What? What's wrong?</b>
+
+835
+00:57:01,560 --> 00:57:02,730
+<b>Why are they so quiet?</b>
+
+836
+00:57:08,300 --> 00:57:11,130
+<b>Hey! Get over here!</b>
+
+837
+00:57:11,700 --> 00:57:12,970
+<b>- Run! - Hey!</b>
+
+838
+00:57:13,670 --> 00:57:16,170
+<b>Hey! You guys!</b>
+
+839
+00:57:16,710 --> 00:57:19,310
+<b>I told you not to touch the rice! Open the door!</b>
+
+840
+00:57:24,280 --> 00:57:26,280
+<b>They really drive me crazy.</b>
+
+841
+00:57:27,580 --> 00:57:29,090
+<b>I know you can't live without your kids.</b>
+
+842
+00:57:29,320 --> 00:57:32,220
+<b>Yes, of course. I can live without my husband but not my kids.</b>
+
+843
+00:57:35,160 --> 00:57:38,060
+<b>But that's only because I'm a mom, but it's better not to have kids.</b>
+
+844
+00:57:38,600 --> 00:57:40,860
+<b>Hey, don't get married.</b>
+
+845
+00:57:42,600 --> 00:57:46,200
+<b>It's so tiring to live as a mother.</b>
+
+846
+00:57:49,570 --> 00:57:50,940
+<b>I mean...</b>
+
+847
+00:57:51,370 --> 00:57:54,040
+<b>You always meet adorable kids...</b>
+
+848
+00:57:54,140 --> 00:57:55,810
+<b>and interview moms who are rich.</b>
+
+849
+00:57:55,810 --> 00:57:57,710
+<b>That's why you think it looks nice to be a mom.</b>
+
+850
+00:57:57,810 --> 00:58:00,180
+<b>But look around you. Do you envy this?</b>
+
+851
+00:58:00,620 --> 00:58:03,350
+<b>You'll realize how precious your current life is...</b>
+
+852
+00:58:03,490 --> 00:58:05,720
+<b>once you don't have time to buy coffee for yourself.</b>
+
+853
+00:58:08,760 --> 00:58:10,190
+<b>Eun Young, I can't have kids.</b>
+
+854
+00:58:16,770 --> 00:58:18,500
+<b>How can I have kids when I can't even get married?</b>
+
+855
+00:58:23,440 --> 00:58:24,870
+<b>My gosh. Hey.</b>
+
+856
+00:58:24,870 --> 00:58:26,240
+<b>I told you not to run.</b>
+
+857
+00:58:57,940 --> 00:59:00,310
+<b>This isn't your house. At least ring the bell before you...</b>
+
+858
+00:59:00,640 --> 00:59:02,410
+<b>- Here. - What's wrong?</b>
+
+859
+00:59:07,050 --> 00:59:08,320
+<b>Can you sleep with her tonight?</b>
+
+860
+00:59:08,750 --> 00:59:11,350
+<b>My friend's father passed away, so I need to help at the funeral.</b>
+
+861
+00:59:12,660 --> 00:59:14,190
+<b>What's wrong with you guys?</b>
+
+862
+00:59:15,330 --> 00:59:17,190
+<b>Did you do this, Do Ah?</b>
+
+863
+00:59:17,190 --> 00:59:18,760
+<b>Was it you?</b>
+
+864
+00:59:18,760 --> 00:59:20,500
+<b>My goodness, really?</b>
+
+865
+00:59:21,800 --> 00:59:24,130
+<b>You need to sleep now.</b>
+
+866
+00:59:24,130 --> 00:59:27,170
+<b>It's time for bed, Do Ah. You're burning.</b>
+
+867
+00:59:28,040 --> 00:59:29,170
+<b>Do Ah.</b>
+
+868
+00:59:30,740 --> 00:59:31,910
+<b>Do Ah.</b>
+
+869
+00:59:32,480 --> 00:59:34,710
+<b>Are you okay? Why are you so hot?</b>
+
+870
+00:59:35,810 --> 00:59:38,950
+<b>What... What do I need to do?</b>
+
+871
+00:59:51,960 --> 00:59:53,160
+<b>Let me see.</b>
+
+872
+00:59:58,070 --> 00:59:59,700
+<b>Do Ah!</b>
+
+873
+01:00:02,070 --> 01:00:03,310
+<b>Do Ah.</b>
+
+874
+01:00:10,510 --> 01:00:12,620
+<b>Why won't he pick up?</b>
+
+875
+01:00:16,320 --> 01:00:17,350
+<b>My gosh.</b>
+
+876
+01:00:19,590 --> 01:00:21,260
+<b>What's wrong?</b>
+
+877
+01:00:22,690 --> 01:00:23,890
+<b>What's wrong with her?</b>
+
+878
+01:00:23,890 --> 01:00:25,090
+<b>She has a fever.</b>
+
+879
+01:00:25,090 --> 01:00:26,300
+<b>- Gosh, she does. - It's okay.</b>
+
+880
+01:00:26,400 --> 01:00:27,960
+<b>- Should I get a fever reducer? - No, it's okay.</b>
+
+881
+01:00:29,370 --> 01:00:32,240
+<b>I just need the baby diary. I'll take her to the ER.</b>
+
+882
+01:00:32,340 --> 01:00:34,340
+<b>Okay. Call me if you need something.</b>
+
+883
+01:00:34,340 --> 01:00:36,310
+<b>Okay. It's not a big deal. You can go to bed.</b>
+
+884
+01:00:36,610 --> 01:00:39,380
+<b>My goodness, poor baby. Oh, gosh.</b>
+
+885
+01:00:39,610 --> 01:00:42,550
+<b>Don't skip your meals, and get good sleep.</b>
+
+886
+01:00:43,510 --> 01:00:44,650
+<b>Thank you.</b>
+
+887
+01:00:45,150 --> 01:00:48,050
+<b>You should eat if things aren't awkward between you and Jae Young.</b>
+
+888
+01:00:50,990 --> 01:00:52,190
+<b>We're good.</b>
+
+889
+01:00:52,490 --> 01:00:53,790
+<b>It's not because of Jae Young.</b>
+
+890
+01:00:53,790 --> 01:00:56,760
+<b>I need to go because I have to help Professor Park with his thesis.</b>
+
+891
+01:00:57,360 --> 01:00:58,760
+<b>You guys don't even keep in touch?</b>
+
+892
+01:00:58,830 --> 01:01:00,760
+<b>Doesn't she ever call? You guys have a baby together.</b>
+
+893
+01:01:05,900 --> 01:01:07,240
+<b>Hey. Hello.</b>
+
+894
+01:01:08,100 --> 01:01:09,540
+<b>Okay, you should go.</b>
+
+895
+01:01:13,980 --> 01:01:16,880
+<b>She didn't come by to say hello. She's unbelievable.</b>
+
+896
+01:01:17,580 --> 01:01:20,750
+<b>But I guess that's how she became an assistant professor so quickly.</b>
+
+897
+01:01:22,220 --> 01:01:23,350
+<b>Good for her.</b>
+
+898
+01:01:25,090 --> 01:01:27,090
+<b>(Crazy Ha Ri)</b>
+
+899
+01:01:30,030 --> 01:01:31,160
+<b>She has bronchitis.</b>
+
+900
+01:01:32,130 --> 01:01:34,160
+<b>You should know that as her mom.</b>
+
+901
+01:01:34,530 --> 01:01:36,570
+<b>Actually, I'm not her mom.</b>
+
+902
+01:01:37,630 --> 01:01:39,040
+<b>Her father...</b>
+
+903
+01:01:40,640 --> 01:01:44,310
+<b>He's getting drunk somewhere and isn't picking up my calls.</b>
+
+904
+01:01:44,310 --> 01:01:45,480
+<b>That piece of garbage.</b>
+
+905
+01:01:47,340 --> 01:01:50,480
+<b>So you're babysitting the daughter of a piece of garbage.</b>
+
+906
+01:01:52,580 --> 01:01:54,280
+<b>I'll prescribe three days' worth of medicine,</b>
+
+907
+01:01:54,280 --> 01:01:55,390
+<b>so make sure she takes it all.</b>
+
+908
+01:01:55,490 --> 01:01:57,950
+<b>If she vomits in her sleep, it could block her airway,</b>
+
+909
+01:01:57,950 --> 01:01:59,660
+<b>- so have her sleep on her side. - Sure.</b>
+
+910
+01:01:59,760 --> 01:02:00,960
+<b>Gosh, thank you.</b>
+
+911
+01:02:07,730 --> 01:02:10,630
+<b>Do you have any idea how scared I was?</b>
+
+912
+01:03:17,000 --> 01:03:20,540
+<b>Look at you all better and playing on your own.</b>
+
+913
+01:03:26,480 --> 01:03:28,650
+<b>I'm sure the fever was no joke,</b>
+
+914
+01:03:28,650 --> 01:03:30,880
+<b>but you did good. How sweet of you.</b>
+
+915
+01:03:33,020 --> 01:03:35,820
+<b>My gosh. Did you just smile at me?</b>
+
+916
+01:03:36,550 --> 01:03:39,060
+<b>You're laughing after scaring me like that last night?</b>
+
+917
+01:03:40,820 --> 01:03:43,290
+<b>I'm not cut out for this at all.</b>
+
+918
+01:03:44,490 --> 01:03:47,600
+<b>How on earth would I raise such a pain in the neck?</b>
+
+919
+01:04:03,250 --> 01:04:04,410
+<b>It'll be all right.</b>
+
+920
+01:04:06,980 --> 01:04:09,520
+<b>There's nothing you can do when something you want...</b>
+
+921
+01:04:10,390 --> 01:04:11,890
+<b>will just never happen.</b>
+
+922
+01:04:13,190 --> 01:04:14,290
+<b>Right?</b>
+
+923
+01:05:24,830 --> 01:05:26,730
+<b>- The latest issue is out. - Right.</b>
+
+924
+01:05:29,630 --> 01:05:30,770
+<b>Thanks.</b>
+
+925
+01:05:46,680 --> 01:05:50,320
+<b>("When I ever become a mom...")</b>
+
+926
+01:06:13,540 --> 01:06:15,240
+<b>(Dahan Hospital OB-GYN)</b>
+
+927
+01:06:18,510 --> 01:06:21,150
+<b>Did you finally choose to have the surgery?</b>
+
+928
+01:06:22,190 --> 01:06:24,850
+<b>The surgery could lead to infertility, right?</b>
+
+929
+01:06:25,190 --> 01:06:26,620
+<b>There's a high possibility.</b>
+
+930
+01:06:28,660 --> 01:06:30,760
+<b>I'll have a baby first and then do the surgery.</b>
+
+931
+01:06:32,800 --> 01:06:33,900
+<b>Are you getting married?</b>
+
+932
+01:06:35,300 --> 01:06:37,470
+<b>I could get married at 50 or 60 if I want,</b>
+
+933
+01:06:37,730 --> 01:06:39,740
+<b>but this is my last chance to get pregnant.</b>
+
+934
+01:06:46,010 --> 01:06:47,140
+<b>I'm not getting married.</b>
+
+935
+01:06:48,110 --> 01:06:49,410
+<b>I just want to have a baby.</b>
+
+936
+01:06:55,250 --> 01:06:57,920
+<b>("When I ever become a mom...")</b>
+
+937
+01:07:15,910 --> 01:07:18,670
+<b>(Oh My Baby)</b>
+
+938
+01:07:18,810 --> 01:07:22,080
+<b>Marriage? I'd love for fate to bring someone to me,</b>
+
+939
+01:07:22,080 --> 01:07:25,010
+<b>but my reality is, I'm being called an old lady.</b>
+
+940
+01:07:25,010 --> 01:07:26,920
+<b>You've never been good at dating.</b>
+
+941
+01:07:27,020 --> 01:07:28,420
+<b>Zip it...</b>
+
+942
+01:07:28,420 --> 01:07:30,420
+<b>or you'll taste my foot in your mouth.</b>
+
+943
+01:07:30,420 --> 01:07:32,720
+<b>Ms. Jang, are you still embarrassed to see me?</b>
+
+944
+01:07:32,820 --> 01:07:34,490
+<b>No, I couldn't be more comfortable.</b>
+
+945
+01:07:34,490 --> 01:07:36,790
+<b>Eu Ddeum, no aunt of yours works here.</b>
+
+946
+01:07:36,790 --> 01:07:39,660
+<b>How about a little practice round by helping us out?</b>
+
+947
+01:07:40,160 --> 01:07:42,160
+<b>- Do you want me? - Can I have you if I do?</b>
+
+948
+01:07:42,160 --> 01:07:43,730
+<b>Don't hate me so much.</b>
+
+949
+01:07:44,330 --> 01:07:47,640
+<b>It's harder to hate someone than to like someone.</b>
+
+950
+01:07:49,030 --> 01:07:58,990
+<b></b>
+
